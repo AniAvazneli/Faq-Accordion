@@ -158,9 +158,9 @@ hr {
         display: flex;
         width: 150px;
         height: 150px;
-        transform: translate(-26%, 225%);
+        transform: translate(-26%, 335%);
         z-index: 2;
-        position: fixed;
+        position: relative;
     }
 
     .contTexts{
